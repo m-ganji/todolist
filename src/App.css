@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+  background-color: #f8f8ff;
+}
+
+input[type="checkbox"] {
+  /* -webkit-appearance: none; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  width: 25px;
+  height: 25px;
+  background: #dedfe1 !important;
+  border-radius: 5px;
+  border: 2px solid #555;
+}
+/* input[type="checkbox"]:checked {
+  background: #abd;
+} */
